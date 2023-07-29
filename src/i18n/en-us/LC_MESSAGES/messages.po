@@ -1,0 +1,33 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-04-06 02:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+
+msgid "audio2vmd 実行: 処理内容: {p}"
+msgstr "audio2vmd run: process description: {p}"
+
+msgid "予期せぬエラーが発生しました"
+msgstr "An unexpected error has occurred"
+
+msgid "音声分離 準備開始"
+msgstr "Prepare for voice separation"
+
+msgid "音声分離 処理終了: {d}"
+msgstr "Speech Separation End of process: {d}"
+
+msgid "audio2vmd 終了: 処理内容: {p}, 処理時間: {e}"
+msgstr "audio2vmd terminated: processed: {p}, processed time: {e}"
